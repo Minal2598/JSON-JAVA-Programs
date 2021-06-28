@@ -1,0 +1,24 @@
+{
+	"inventoryDetails" : [
+		{
+			"name" : "Basmati",
+			"weight" : 35.45,
+			"pricePerKg" : 60.78,
+			"type" : "Rice"
+		},
+		{
+			"name" : "MoongDal",
+			"weight" : 12.45,
+			"pricePerKg" : 40.00,
+			"type" : "Pulses"
+		},
+		{
+			"name" : "Common-Wheat",
+			"weight" : 30.16,
+			"pricePerKg" : 30.00,
+			"type" : "Wheat"
+		}
+	
+	]
+
+}
